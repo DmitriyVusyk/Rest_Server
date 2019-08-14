@@ -1,1 +1,1 @@
-web: java -jar target/restapi-library-1.0.0.jar
+web: java -jar target/rest-API-library-1.0.jar
